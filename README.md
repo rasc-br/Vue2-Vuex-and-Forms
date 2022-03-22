@@ -1,4 +1,4 @@
-# forms2
+# Vue 2 → VueX with Forms
 
 ## Project setup
 ```
@@ -10,15 +10,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Description
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+An extremely simple repository with three options to use Vue 2 State Manager (VueX) and Forms.
